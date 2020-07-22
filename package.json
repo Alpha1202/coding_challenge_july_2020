@@ -1,0 +1,24 @@
+{
+  "name": "coding_challenge_july_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "question1": "node Question1",
+    "question2": "node Question2",
+    "question3": "node Question3",
+    "all": "npm run question1 && npm run question2 && npm run question3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alpha1202/coding_challenge_july_2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alpha1202/coding_challenge_july_2020/issues"
+  },
+  "homepage": "https://github.com/Alpha1202/coding_challenge_july_2020#readme"
+}
